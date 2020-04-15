@@ -5,7 +5,7 @@ nav{
   display:grid;
   grid-template-columns: 80px 140px 110px 110px 140px 140px 100px 100px 100px 110px 110px 110px ;
   grid-template-rows: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px ;
-  background-image: url(header.jpg);
+  background-image: url("../img/header.jpg");
   background-repeat: no-repeat;
   background-size: 1500px 800px;
   background-position: -100px;
@@ -85,7 +85,7 @@ h8{
   color: white;
 }
 .logo{
-  background-image: url(logo.png);
+  background-image: url("../img/logo.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-top: 15px;
@@ -96,7 +96,7 @@ h8{
   transform: scale(1.5);
 }
 .search{
-  background-image: url(search.png);
+  background-image: url("../img/search.png");
   background-repeat: no-repeat;
   background-size:contain;
   background-size: 25px;
@@ -138,7 +138,7 @@ h8{
   grid-row: 2;
 }
 .logo1{
-  background-image: url(delivery.png);
+  background-image: url("../img/delivery.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-top: 15px;
@@ -153,7 +153,7 @@ h8{
   grid-row: 6;
 }
 .logo2{
-  background-image: url(support.png);
+  background-image: url("../img/support.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-top: 10px;
@@ -168,7 +168,7 @@ h8{
   grid-row: 8;
 }
 .logo3{
-  background-image: url(montage.png);
+  background-image: url("../img/montage.png");
   background-size: contain;
   background-repeat: no-repeat;
   margin-top: 10px;
@@ -183,7 +183,7 @@ h8{
   grid-row: 10;
 }
 .image0{
-  background-image: url(image.jpg);
+  background-image: url("../img/image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   grid-column: 8/12;
@@ -244,7 +244,7 @@ h8{
   color: rgb(114, 33, 87);
 }
 .image1{
-  background-image: url(bathroom.jpg);
+  background-image: url("../img/bathroom.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: relative;
@@ -253,7 +253,7 @@ h8{
   grid-row: 1/10;
 }
 .image2{
-  background-image: url(kitchen.jpg);
+  background-image: url("../img/kitchen.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: relative;
@@ -261,7 +261,7 @@ h8{
   grid-row: 1/10;
 }
 .image3{
-  background-image: url(bedroom.jpg);
+  background-image: url("../img/bedroom.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: relative;
@@ -270,7 +270,7 @@ h8{
   text-align: center;
 }
 .image4{
-  background-image: url(livingroom.jpg);
+  background-image: url("../img/livingroom.jpg");
   background-size: cover;
   background-position: -80px;
   background-repeat: no-repeat;
